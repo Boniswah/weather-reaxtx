@@ -26,7 +26,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://https://famous-meerkat-9fba7a.netlify.app/"
+            href="https://https://famous-meerkat-9fba7a.netlify.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
